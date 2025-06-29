@@ -1,3 +1,7 @@
 h1{
   text-transform: uppercase;
 }
+.css-h1{
+  text-transform: uppercase;
+  color: blue;
+}
