@@ -28,3 +28,20 @@ header h2{
   width: 50px;
   padding: 5px;
 }
+.container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  background-color: antiquewhite;
+  margin-top: 20px;
+  column-gap: 10px;
+}
+.container div{
+  border-radius: 20px;
+    border: solid 2px;
+    height: 250px;
+    text-align: center;
+    font-size: 30px;
+}
+.html-section{
+  background-color: coral;;
+}
